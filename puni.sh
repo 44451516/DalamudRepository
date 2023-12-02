@@ -1,4 +1,3 @@
-//https://puni.sh/api/plugins
 [
   {
     "Author": "Taurenkey, croizat",
